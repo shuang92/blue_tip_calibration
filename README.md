@@ -1,5 +1,7 @@
 # blue_tip_calibration
 Code Release for u-band calibration with blue tip stars.
+Papar link: 
+https://arxiv.org/abs/2212.05135
 
 ## notebook 1
 detect the u-g color of the halo MSTOs
@@ -14,6 +16,3 @@ fit the detected u-g color with a disk-contamination model
 disk_model.ipynb: with pystan 2.19.1.1 (this version of pystan is outdated; needs modification)
 
 disk_model_emcee.ipynb: with emcee 3.1.2
-
-Papar link: 
-https://arxiv.org/abs/2212.05135
