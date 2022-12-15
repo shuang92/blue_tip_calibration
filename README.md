@@ -16,4 +16,4 @@ disk_model.ipynb: with pystan 2.19.1.1 (this version of pystan is outdated; need
 disk_model_emcee.ipynb: with emcee 3.1.2
 
 Papar link: 
-https://github.com/shuang92/uband
+https://arxiv.org/abs/2212.05135
